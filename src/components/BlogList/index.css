@@ -1,0 +1,7 @@
+.blogs-list-container {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  width: 100%;
+  align-items: center;
+}
